@@ -1,0 +1,12 @@
+Epoch 0/9, Iters: 000900, validation_accuracy: 0.8910
+Epoch 1/9, Iters: 001800, validation_accuracy: 0.9630
+Epoch 2/9, Iters: 002700, validation_accuracy: 0.9388
+Epoch 3/9, Iters: 003600, validation_accuracy: 0.9765
+Epoch 4/9, Iters: 004500, validation_accuracy: 0.9628
+Epoch 4/9, Iters: 005400, validation_accuracy: 0.9671
+Epoch 5/9, Iters: 006300, validation_accuracy: 0.9805
+Epoch 6/9, Iters: 007200, validation_accuracy: 0.9716
+Epoch 7/9, Iters: 008100, validation_accuracy: 0.9777
+Epoch 8/9, Iters: 009000, validation_accuracy: 0.9813
+Epoch 9/9, Iters: 009900, validation_accuracy: 0.9792
+Epoch 9/9, Iters: 010800, validation_accuracy: 0.9812
